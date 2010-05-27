@@ -1,9 +1,9 @@
 #summary Main Project page
 
 = Revision 0 =
-* [BRD100504_schematic.pdf Schematic]
+* [http://code.google.com/p/usbkeypad/downloads/detail?name=BRD100504_schematic.pdf&can=2&q= Schematic]
 
-* [BRD100504_assembly.pdf Assembly Drawing]
+* [http://code.google.com/p/usbkeypad/downloads/detail?name=BRD100504_assembly.pdf&can=2&q= Assembly Drawing]
 
 = Revision 1 = 
 Under development
